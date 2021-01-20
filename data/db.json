@@ -1,0 +1,90 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo obcaecati laborum fuga mollitia ratione iure consequatur distinctio laboriosam debitis nostrum, recusandae doloremque, accusantium totam, qui quia a assumenda. Nostrum, natus!",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 css tips",
+      "body": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo obcaecati laborum fuga mollitia ratione iure consequatur distinctio laboriosam debitis nostrum, recusandae doloremque, accusantium totam, qui quia a assumenda. Nostrum, natus!",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "id": 6363,
+      "title": "Frontend developer",
+      "body": "sdfsdfdsf",
+      "tags": []
+    },
+    {
+      "id": 2484,
+      "title": "Frontend developer",
+      "body": "sdfsdfdsf",
+      "tags": []
+    },
+    {
+      "id": 5817,
+      "title": "backend developer",
+      "body": "sdfsdfdsfd",
+      "tags": []
+    },
+    {
+      "id": 9427,
+      "title": "Adel",
+      "body": "Alrafiq",
+      "tags": []
+    },
+    {
+      "id": 4784,
+      "title": "Adel",
+      "body": "Alrafiq",
+      "tags": []
+    },
+    {
+      "id": 4937,
+      "title": "Adel",
+      "body": "Alrafiq",
+      "tags": []
+    },
+    {
+      "id": 7513,
+      "title": "Ali",
+      "body": "qsdfqdfd",
+      "tags": []
+    },
+    {
+      "id": 7781,
+      "title": "sdfdsf",
+      "body": "dfdsf",
+      "tags": []
+    },
+    {
+      "id": 2247,
+      "title": "dfqsdf",
+      "body": "dsfqsdf",
+      "tags": []
+    },
+    {
+      "id": 5777,
+      "title": "hkjhkjh",
+      "body": "jlkjljl",
+      "tags": []
+    },
+    {
+      "id": 4342,
+      "title": "ddfdf",
+      "body": "dfsdf",
+      "tags": []
+    }
+  ]
+}
